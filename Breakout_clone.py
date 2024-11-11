@@ -118,7 +118,6 @@ for i in range (0,108):
 
 #用函式初始遊戲
 restGame()
-print("my game")
 #game loop
 running = True
 while running:
@@ -150,6 +149,7 @@ while running:
 
     # 畫出磚塊
     for bricks in bricks_group:
+        #判斷球跟磚塊是否碰撞
         if pygame.sprite.collide_rect(ball, bricks):
             collision_sound.play()
             collision_sound.set_volume(0.7)
