@@ -4,7 +4,9 @@ This is a Breakout Clone game developed using Python and Pygame library. The pla
 1. Install Python: This program was developed using Python 3.12.5. To install Python correctly, you can visit Python [official website](https://www.python.org/downloads/). 
 
 2. Install Pygame: Install the Pygame library in the terminal.
-![螢幕擷取畫面 2025-01-12 130618](https://hackmd.io/_uploads/BJGz06lvJl.png)
+
+    ![螢幕擷取畫面 2025-01-12 130618](https://github.com/user-attachments/assets/93ebcf3e-52cd-4420-8f43-c70c7b226f64)
+
 
 
 # Gameplay
@@ -18,7 +20,9 @@ This is a Breakout Clone game developed using Python and Pygame library. The pla
 # Start the game
 
 Run the following command in the terminal or command prompt.
-![螢幕擷取畫面 2025-01-12 134552](https://hackmd.io/_uploads/SJkNvCgDye.png)
 
-If it shows ![螢幕擷取畫面 2025-01-12 131233](https://hackmd.io/_uploads/H1FUJRlDkl.png), please install pygame in the command prompt.
+  ![螢幕擷取畫面 2025-01-12 134552](https://github.com/user-attachments/assets/75ed556c-22fe-4249-a908-0c8fd02c8d99)
+
+
+If it shows ModuleNotFoundError: No module named 'pygame', please install pygame in the command prompt.
 
